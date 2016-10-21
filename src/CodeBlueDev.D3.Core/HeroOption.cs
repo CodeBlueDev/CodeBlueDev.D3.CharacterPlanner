@@ -14,7 +14,7 @@ namespace CodeBlueDev.D3.Core
     /// <summary>
     /// Specifies the type of hero that can be played.
     /// </summary>
-    public enum HeroClassType
+    public enum HeroSelection
     {
         /// <summary>
         /// The Barbarian is a massive, heavily-armed warrior, a wanderer 

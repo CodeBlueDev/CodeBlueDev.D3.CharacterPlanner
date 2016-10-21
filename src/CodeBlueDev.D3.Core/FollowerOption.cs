@@ -12,7 +12,7 @@ namespace CodeBlueDev.D3.Core
     /// <summary>
     ///   Specifies the type of follower that can be hired.
     /// </summary>
-    public enum FollowerType
+    public enum FollowerSelection
     {
         /// <summary>
         /// Eirena, the Enchantress, a mysterious magic-user who can confuse 
